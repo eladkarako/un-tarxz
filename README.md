@@ -1,5 +1,5 @@
-<h1>Un-tar.xz</h1>
-Drag&amp;Drop any <code>tar.xz</code>, <code>tar.gz</code>, ... <br/>
+<h1><img width="48" src="resources/icon.png" /> <em>un-tarxz</em></h1>
+<strong>Windows-Ready<strong>, Drag&amp;Drop any <code>tar.xz</code>, <code>tar.gz</code>, ... <br/>
 over <code>un-tarxz.cmd</code> to extract the content to the current folder. <br/>
 Fast. <br/>
 Efficient. <br/>
@@ -9,7 +9,9 @@ No Temporary Files. <br/>
 
 No Dependencies. <br/>
 Modified, portable <a href="https://github.com/mcmilk/7-Zip-zstd">7zip</a> included, <br/>
-with additional support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard.
+with additional support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard. <br/>
+
+<img src="resources/dragndrop_example.gif" /> <br/>
 
 <hr/>
 
