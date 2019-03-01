@@ -39,3 +39,16 @@ instead-of:
 ```
 
 in the batch-file.
+
+<br/>
+
+<hr/>
+
+<h3>7Zip component</h3>
+
+The <code>7za.exe</code> and <code>7za.dll</code> are a slightly modified <br/>
+versions of https://github.com/mcmilk/7-Zip-zstd , and 100% portable. <br/>
+it is the x86 version, which you may override with x64 version if you want from: <br/>
+https://github.com/eladkarako/mods/tree/store/7zip/64bit <br/>
+
+
